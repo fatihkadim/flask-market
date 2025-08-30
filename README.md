@@ -7,16 +7,18 @@ It includes user registration/login and product purchasing/selling functionaliti
 
 ## Project Structure
 
-market/ # Main module of the application
-templates/ # HTML templates (with Bootstrap support)
-forms.py # User forms
-models.py # Database models
-routes.py # Application routes
-init.py # Flask application and configuration
-run.py # Entry point to run the application
-requirements.txt # Project dependencies
-LICENSE # MIT license
-README.md # Project description (this file)
+| File / Folder       | Description                               |
+|--------------------|-------------------------------------------|
+| market/            | Main module of the application            |
+| templates/         | HTML templates (with Bootstrap support)  |
+| forms.py           | User forms                                |
+| models.py          | Database models                           |
+| routes.py          | Application routes                        |
+| init.py            | Flask application and configuration       |
+| run.py             | Entry point to run the application       |
+| requirements.txt   | Project dependencies                       |
+| LICENSE            | MIT license                               |
+| README.md          | Project description (this file)          |
 
 ---
 
@@ -100,16 +102,18 @@ Uygulama kullanıcı kayıt/giriş ve ürün alım/satım fonksiyonlarını içe
 
 ## Proje Yapısı
 
-market/           # Uygulamanın ana modülü  
-templates/        # HTML şablonları (Bootstrap destekli)  
-forms.py           # Kullanıcı formları  
-models.py          # Veritabanı modelleri  
-routes.py          # Uygulama rotaları  
-init.py            # Flask uygulaması ve konfigürasyonu  
-run.py             # Uygulamayı başlatmak için giriş noktası  
-requirements.txt   # Proje bağımlılıkları  
-LICENSE            # MIT lisansı  
-README.md          # Proje açıklaması (bu dosya)  
+| Dosya / Klasör      | Açıklama                                         |
+|--------------------|-------------------------------------------------|
+| market/            | Uygulamanın ana modülü                           |
+| templates/         | HTML şablonları (Bootstrap desteği ile)         |
+| forms.py           | Kullanıcı formları                               |
+| models.py          | Veritabanı modelleri                             |
+| routes.py          | Uygulama rotaları                                |
+| init.py            | Flask uygulaması ve yapılandırması               |
+| run.py             | Uygulamayı çalıştırmak için giriş noktası        |
+| requirements.txt   | Proje bağımlılıkları                             |
+| LICENSE            | MIT lisansı                                      |
+| README.md          | Proje açıklaması (bu dosya)                     |
 
 ---
 
